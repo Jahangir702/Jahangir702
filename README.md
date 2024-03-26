@@ -2,8 +2,11 @@
 <p align="center">
     <img src="https://drive.google.com/uc?id=1nkG1yqItBf3H0EKqsdajzdvI09PDqd2a">
 </p>
-As a passionate web developer well-versed in ASP.NET, MVC, HTML, CSS, JavaScript, and more, I'm eager to leverage my skills to create dynamic and user-friendly websites. With a keen interest in cloud technologies like Microsoft Azure, I'm excited to explore their potential for building scalable applications. As a fresh talent, I bring a fresh perspective, a hunger for learning, and a collaborative spirit to any team. If you're seeking a motivated and adaptable team player, let's connect and embark on a journey to success together!
-<h3 align="center">
+<h3 align="center"> I’m currently working on </h3>
+
+<p align="center"><strong>Software Developer(.NET)</strong></p>
+<p align="center"><strong><a href="https://www.excelbd.com/">Software Developer(.NET)</a></strong></p>
+
 📫 How to reach me
 </h3>
 
