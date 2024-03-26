@@ -23,7 +23,7 @@
 </p>
 <h3 align="center"> I’m currently working on </h3>
 <p align="center"><strong>Software Developer(.NET)</strong></p>
-<p align="center"><strong><a href="https://www.excelbd.com/"><img src="https://www.excelbd.com/"></a></strong></p>
+<p align="center"><img src="https://www.excelbd.com/"></p>
 
 ### Where to find me
 
