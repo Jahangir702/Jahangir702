@@ -1,6 +1,11 @@
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![UML](https://img.shields.io/badge/UML-333333?style=flat-square&logo=uml&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![XML](https://img.shields.io/badge/XML-00599C?style=flat-square&logo=xml&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=flat-square&logo=microsoft-dot-net&logoColor=white)
+
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="center">
