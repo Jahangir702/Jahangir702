@@ -3,9 +3,8 @@
     <img src="https://drive.google.com/uc?id=1nkG1yqItBf3H0EKqsdajzdvI09PDqd2a">
 </p>
 <h3 align="center"> I’m currently working on </h3>
-
 <p align="center"><strong>Software Developer(.NET)</strong></p>
-<p align="center"><strong><a href="https://www.excelbd.com/">Software Developer(.NET)</a></strong></p>
+<p align="center"><strong><a href="https://www.excelbd.com/">Excel Technologies Ltd</a></strong></p>
 
 📫 How to reach me
 </h3>
