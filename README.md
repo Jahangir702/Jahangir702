@@ -5,6 +5,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-00599C?style=flat-square&logo=xml&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=flat-square&logo=microsoft-dot-net&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework 6](https://img.shields.io/badge/Entity_Framework_6-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
