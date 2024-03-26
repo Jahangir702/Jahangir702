@@ -1,4 +1,4 @@
-![Profile Views](https://img.shields.io/endpoint?url=<URL_TO_YOUR_SCRIPT>/profile_views/<Jahangir702>)
+![Profile Views](https://img.shields.io/endpoint?url=<https://github.com/Jahangir702>/profile_views/<Jahangir702>)
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-333333?style=flat-square&logo=uml&logoColor=white)
