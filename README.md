@@ -5,7 +5,7 @@ As a passionate web developer well-versed in ASP.NET, MVC, HTML, CSS, JavaScript
 </h3>
 
 <p align="center">
-	<a href="github.com/Jahangir702"><img src="https://img.shields.io/github/followers/mehedi-66.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="github.com/Jahangir702"><img src="https://img.shields.io/github/followers/Jahangir702.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/jahangiralam702/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.facebook.com/Jahangir702/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
 </p>
