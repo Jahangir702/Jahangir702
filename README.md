@@ -24,7 +24,7 @@
 <h3 align="center"> I’m currently working on </h3>
 <p align="center"><strong>Software Developer(.NET)</strong></p>
 <p align="center">
-    <img src="https://www.excelbd.com/wp-content/uploads/2023/01/Excel_Technologies_Ltd.svg" width="300" height="300">
+    <img src="https://www.excelbd.com/wp-content/uploads/2023/01/Excel_Technologies_Ltd.svg" width="300" height="100">
 </p>
 
 
