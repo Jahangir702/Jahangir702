@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="center">
-<code><img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png](https://drive.google.com/file/d/1nkG1yqItBf3H0EKqsdajzdvI09PDqd2a/view?usp=sharing)"></code>
+<code><img src="https://drive.google.com/file/d/1nkG1yqItBf3H0EKqsdajzdvI09PDqd2a/view?usp=sharing"></code>
 </p>
 As a passionate web developer well-versed in ASP.NET, MVC, HTML, CSS, JavaScript, and more, I'm eager to leverage my skills to create dynamic and user-friendly websites. With a keen interest in cloud technologies like Microsoft Azure, I'm excited to explore their potential for building scalable applications. As a fresh talent, I bring a fresh perspective, a hunger for learning, and a collaborative spirit to any team. If you're seeking a motivated and adaptable team player, let's connect and embark on a journey to success together!
 <h3 align="center">
