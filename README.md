@@ -7,10 +7,6 @@
 <p align="center"><strong><a href="https://www.excelbd.com/">Excel Technologies Ltd</a></strong></p>
 
 📫 How to reach me
-</h3>
-
-<p align="center">
-	<a href="github.com/Jahangir702"><img src="https://img.shields.io/github/followers/Jahangir702.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/jahangiralam702/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/Jahangir702/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
-</p>
+[![Website](https://img.shields.io/website?label=My%20Website&url=https%3A%2F%2Fexample.com)](https://linktr.ee/jahangir70222)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahangiralam702/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Jahangir702)
