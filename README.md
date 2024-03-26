@@ -23,7 +23,9 @@
 </p>
 <h3 align="center"> I’m currently working on </h3>
 <p align="center"><strong>Software Developer(.NET)</strong></p>
-<p align="center"><img src="https://www.excelbd.com/"></p>
+<p align="center">
+    <img src="https://www.excelbd.com/wp-content/uploads/2023/01/Excel_Technologies_Ltd.svg">
+</p>
 
 ### Where to find me
 
