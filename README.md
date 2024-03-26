@@ -11,6 +11,10 @@
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=signalr&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
