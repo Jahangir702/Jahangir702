@@ -21,12 +21,20 @@
 <p align="center">
     <img src="https://drive.google.com/uc?id=1nkG1yqItBf3H0EKqsdajzdvI09PDqd2a">
 </p>
-<h3 align="center"> I’m currently working on </h3>
+<h3 align="center"> 💻 I’m currently working on </h3>
 <p align="center"><strong>Software Developer(.NET)</strong></p>
 <p align="center">
     <img src="https://www.excelbd.com/wp-content/uploads/2023/01/Excel_Technologies_Ltd.svg" width="200" height="100">
 </p>
 
+<h3 align="center">
+🌱 I’m currently learning
+</h3>
+
+<p align="center">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+</p>
 
 ### Where to find me
 
